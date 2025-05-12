@@ -1,0 +1,12 @@
+To run the CLI app, clone repository.
+
+install nest, tsc and node
+
+
+in Root Dir, run
+
+
+# build the app
+ npm run build
+# start app
+npm start
